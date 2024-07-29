@@ -204,4 +204,6 @@ coverage.opencover.xml/MinimalApiProject/MinimalApiProject/bin/
 /MinimalApiProject/MinimalApiProject/obj/ 
 /MinimalApiProject/MinimalApiProject/obj/ 
 /MinimalApiProject/MinimalApiProject/bin/ 
-/MinimalApiProject/MinimalApiProject/.vs/ 
+/MinimalApiProject/.vs/ 
+/MinimalApiProject/MinimalApiProject/obj/ 
+/MinimalApiProject/.vs/ 
