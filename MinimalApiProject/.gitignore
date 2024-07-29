@@ -201,9 +201,11 @@ FakesAssemblies/
 
 /.sonarqube
 coverage.opencover.xml/MinimalApiProject/MinimalApiProject/bin/ 
+coverage.opencover.xml/MinimalApiProject/MinimalApiProject/obj/
+coverage.opencover.xml/MinimalApiProject/.vs/  
 /MinimalApiProject/MinimalApiProject/obj/ 
-/MinimalApiProject/MinimalApiProject/obj/ 
-/MinimalApiProject/MinimalApiProject/bin/ 
+/MinimalApiProject/obj/ 
+/MinimalApiProject/bin/ 
 /MinimalApiProject/.vs/ 
 /MinimalApiProject/MinimalApiProject/obj/ 
-/MinimalApiProject/.vs/ 
+/.vs/ 
