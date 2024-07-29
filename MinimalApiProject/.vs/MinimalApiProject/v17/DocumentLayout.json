@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|d:\\repositorio\\crud_minimalapi\\minimalapiproject\\minimalapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|solutionrelative:minimalapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|d:\\repositorio\\crud_minimalapi\\minimalapiproject\\minimalapiproject\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|solutionrelative:minimalapiproject\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|d:\\repositorio\\crud_minimalapi\\minimalapiproject\\minimalapiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|solutionrelative:minimalapiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|d:\\repositorio\\crud_minimalapi\\minimalapiproject\\minimalapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|solutionrelative:minimalapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|d:\\repositorio\\crud_minimalapi\\minimalapiproject\\minimalapiproject\\migrations\\20240728181758_inserindotabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C521D4E3-FF52-4ACC-976D-C310513EB0B9}|MinimalApiProject\\MinimalApiProject.csproj|solutionrelative:minimalapiproject\\migrations\\20240728181758_inserindotabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +50,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240728181758_InserindoTabela.cs",
+              "DocumentMoniker": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\Migrations\\20240728181758_InserindoTabela.cs",
+              "RelativeDocumentMoniker": "MinimalApiProject\\Migrations\\20240728181758_InserindoTabela.cs",
+              "ToolTip": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\Migrations\\20240728181758_InserindoTabela.cs",
+              "RelativeToolTip": "MinimalApiProject\\Migrations\\20240728181758_InserindoTabela.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:17:58.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\Model\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "MinimalApiProject\\Model\\UsuarioModel.cs",
+              "ToolTip": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\Model\\UsuarioModel.cs",
+              "RelativeToolTip": "MinimalApiProject\\Model\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:14:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MinimalApiProject\\appsettings.json",
+              "ToolTip": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\appsettings.json",
+              "RelativeToolTip": "MinimalApiProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T16:10:23.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MinimalApiProject\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MinimalApiProject\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:04:58.785Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\Program.cs",
               "RelativeDocumentMoniker": "MinimalApiProject\\Program.cs",
               "ToolTip": "D:\\repositorio\\Crud_MinimalAPI\\MinimalApiProject\\MinimalApiProject\\Program.cs",
               "RelativeToolTip": "MinimalApiProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAiwDgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T14:12:56.817Z",
               "EditorCaption": ""
