@@ -32,7 +32,7 @@ Cursinho/Cursinho/Cursinho/obj/
 
 MinimalApiProject/MinimalApiProject/bin/
 MinimalApiProject/MinimalApiProject/obj/
-MinimalApiProject/MinimalApiProject/.vs/
+MinimalApiProject/.vs/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -204,6 +204,7 @@ coverage.opencover.xml/MinimalApiProject/MinimalApiProject/bin/
 coverage.opencover.xml/MinimalApiProject/MinimalApiProject/obj/
 coverage.opencover.xml/MinimalApiProject/.vs/  
 /MinimalApiProject/MinimalApiProject/obj/ 
+/MinimalApiProject/MinimalApiProject/bin/
 /MinimalApiProject/obj/ 
 /MinimalApiProject/bin/ 
 /MinimalApiProject/.vs/ 
